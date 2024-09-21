@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.checkouttools.ShopPricingTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-21T11:38:34" hostname="Mac-K4N9GCY7KF" time="0.001">
+  <properties/>
+  <testcase name="testSpecialPrice()" classname="com.checkouttools.ShopPricingTest" time="0.001"/>
+  <testcase name="testUnitPrice()" classname="com.checkouttools.ShopPricingTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

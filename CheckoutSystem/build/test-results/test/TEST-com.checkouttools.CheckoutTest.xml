@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.checkouttools.CheckoutTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-09-21T11:38:34" hostname="Mac-K4N9GCY7KF" time="0.024">
+  <properties/>
+  <testcase name="testApplySpecialPriceA()" classname="com.checkouttools.CheckoutTest" time="0.015"/>
+  <testcase name="testApplySpecialPriceB()" classname="com.checkouttools.CheckoutTest" time="0.001"/>
+  <testcase name="testEmptyCart()" classname="com.checkouttools.CheckoutTest" time="0.002"/>
+  <testcase name="testScanSingleItem()" classname="com.checkouttools.CheckoutTest" time="0.0"/>
+  <testcase name="testScanMultipleItemsWithoutSpecialPrice()" classname="com.checkouttools.CheckoutTest" time="0.0"/>
+  <testcase name="testMixedItemsAndSpecialPrices()" classname="com.checkouttools.CheckoutTest" time="0.0"/>
+  <testcase name="testFinalizeTotal()" classname="com.checkouttools.CheckoutTest" time="0.001"/>
+  <testcase name="testScanWithoutSpecialPrices()" classname="com.checkouttools.CheckoutTest" time="0.001"/>
+  <system-out><![CDATA[Scanned item: A
+Running total: 50 pence
+Scanned item: A
+Running total: 100 pence
+Scanned item: A
+Running total: 130 pence
+Scanned item: B
+Running total: 30 pence
+Scanned item: B
+Running total: 45 pence
+Scanned item: A
+Running total: 50 pence
+Scanned item: A
+Running total: 50 pence
+Scanned item: B
+Running total: 80 pence
+Scanned item: C
+Running total: 100 pence
+Scanned item: A
+Running total: 50 pence
+Scanned item: B
+Running total: 80 pence
+Scanned item: A
+Running total: 130 pence
+Scanned item: B
+Running total: 145 pence
+Scanned item: A
+Running total: 175 pence
+Scanned item: A
+Running total: 50 pence
+Scanned item: B
+Running total: 80 pence
+Final total: 80 pence
+Scanned item: C
+Running total: 20 pence
+Scanned item: D
+Running total: 35 pence
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
